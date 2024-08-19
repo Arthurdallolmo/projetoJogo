@@ -1,0 +1,5 @@
+let numero1 = Number(prompt("Me diga um numero: "))
+let numero2 = Number(prompt("Me diga um numero: "))
+let numero3 = Number(prompt("Me diga um numero: "))
+let numeroFinal = ((numero1 + numero2 + numero3) /3)
+alert(numeroFinal)
